@@ -12,24 +12,24 @@ Before (main page)/ До моих изменений (главная стран�
 ![before](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/3774214b-7405-4f03-8268-c1a9e775bc43)
 
 
-# After (main page)/ После моих изменений (главная страница)
+After (main page)/ После моих изменений (главная страница)
 ![After](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/bed8e327-62b9-49ad-8efb-653352aafdb0)
 
 
-# This is how cart looks like/ Вот так выглядит корзина
+This is how cart looks like/ Вот так выглядит корзина
 ![Cart](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/fecb588a-3d73-43dc-af08-01207280bc92)
 
 
-# This is how "favourite" tab looks like. As you can see it is completely different from the shopping cart in both quantity and appearance/ Вот так выглядит вкладка "понравившиеся". 
+This is how "favourite" tab looks like. As you can see it is completely different from the shopping cart in both quantity and appearance/ Вот так выглядит вкладка "понравившиеся". 
 Как видите она полностью отличается от корзины и по количеству и по своему виду 
 ![Favourite](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/4de4da2a-9ec6-429b-aca8-647916210a16)
 
 
-# Page with product details before/Страница с деталями продукта до изменений
+Page with product details before/Страница с деталями продукта до изменений
 ![prod details before](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/01659848-8235-43c3-9a5d-5413bbe45ee9)
 
 
-# After/После 
+After/После 
 ![Product details after](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/b9c5a4b1-7c7e-4b48-9166-b1dbab7c2f68)
 
 
