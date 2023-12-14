@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import favItem, fav
+from .models import FavItem, Fav
 # Register your models here.
 
 class favAdmin(admin.ModelAdmin):
@@ -8,5 +8,5 @@ class favAdmin(admin.ModelAdmin):
 class favItemAdmin(admin.ModelAdmin):
     list_display = ('product', 'fav', 'quantity', 'is_active')
 
-admin.site.register(fav, favAdmin)
-admin.site.register(favItem, favItemAdmin)
+admin.site.register(Fav, favAdmin)
+admin.site.register(FavItem, favItemAdmin)
