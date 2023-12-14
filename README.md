@@ -6,7 +6,7 @@ My first online store
 </p>
 
 # About The Project
-Django project, forked and edited. Added favourite tab, changed name. (http://djangogreatkart.com/)
+Django project, forked and edited. Added favourite tab, changed name from (http://djangogreatkart.com/)
 
 
 
