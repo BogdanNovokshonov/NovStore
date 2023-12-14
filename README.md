@@ -8,6 +8,7 @@ My first online store
 # About The Project
 Django project, forked and edited (http://djangogreatkart.com/). Added favourite tab & functionality, changed name. 
  In this project i've improved my skills in html, css, django and python.
+ 
 Before (main page)/ До моих изменений (главная страница)
 ![before](https://github.com/BogdanNovokshonov/NovStore/assets/120629135/3774214b-7405-4f03-8268-c1a9e775bc43)
 
