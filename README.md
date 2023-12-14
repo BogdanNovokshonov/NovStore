@@ -6,13 +6,13 @@ My first online store
 </p>
 
 # About The Project
-Django project, forked and edited. Added favourite tab, changed name. (http://djangogreatkart.com/)
+Django project, forked and edited. Added favourite tab, changed name from (http://djangogreatkart.com/)
 
 
 
 # Setup Instructions
 
-1. Clone the repository `git clone `
+1. Clone the repository `git clone https://github.com/BogdanNovokshonov/NovStore`
 2. Navigrate to the working directory `cd greatkart-pre-deploy`
 3. Open the project from the code editor `code .` or `atom .`
 4. Create virtual environment `python -m venv env`
