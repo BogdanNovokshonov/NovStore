@@ -26,8 +26,9 @@
 					</ul>
 				</aside>
 				<main class="col-md-6 border-left">
+					
 
-					<form action="{% url 'add_cart' single_product.id %}" method="POST">
+					<form action="{% url 'add_cart' single_product.id %}" method="POST"> <!-- cart -->
 						{% csrf_token %}
 						<article class="content-body">
 
@@ -80,7 +81,15 @@
 							{% else %}
 							<button type="submit" class="btn  btn-primary"> <span class="text">Add to Cart</span> <i class="fas fa-shopping-cart"></i> </button>
 							{% endif %}
+
+
 						</article> <!-- product-info-aside .// -->
+					</form>
+					<form action="{% url 'add_fav' single_product.id %}" method="POST"> <!-- favourite -->
+						{% csrf_token %}
+						<article class="content-body">
+							<button type="submit" class="btn  btn-secondary"><i class="fa fa-heart" aria-hidden="true"></i></button>
+						</article>
 					</form>
 				</main> <!-- col.// -->
 			</div> <!-- row.// -->
