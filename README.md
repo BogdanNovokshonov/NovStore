@@ -6,7 +6,25 @@ My first online store
 </p>
 
 # About The Project
-Django project, forked and edited. Added favourite tab, changed name from (http://djangogreatkart.com/)
+Django project, forked and edited (http://djangogreatkart.com/). Added favourite tab & functionality, changed name.
+#Before (main page)/ До моих изменений (главная страница)
+https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/before.png
+
+#After (main page)/ После моих изменений (главная страница)
+https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/After.png
+
+#This is how cart looks like/ Вот так выглядит корзина
+https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/Cart.png
+
+#This is how "favourite" tab looks like. As you can see it is completely different \nfrom the shopping cart in both quantity and appearance/ Вот так выглядит вкладка "понравившиеся". \n
+Как видите она полностью отличается от корзины и по количеству и по своему виду 
+https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/Favourite.png
+
+#Page with product details before/Страница с деталями продукта до изменений
+https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/prod%20details%20before.png
+
+#After/После 
+https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/Product%20details.png
 
 
 
