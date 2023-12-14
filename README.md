@@ -6,8 +6,8 @@ My first online store
 </p>
 
 # About The Project
-Django project, forked and edited (http://djangogreatkart.com/). Added favourite tab & functionality, changed name.
-\n #Before (main page)/ До моих изменений (главная страница)
+Django project, forked and edited (http://djangogreatkart.com/). Added favourite tab & functionality, changed name. \n
+#Before (main page)/ До моих изменений (главная страница)
 https://github.com/BogdanNovokshonov/NovStore/blob/main/media/NovStore%20screenshots/before.png
 
 #After (main page)/ После моих изменений (главная страница)
