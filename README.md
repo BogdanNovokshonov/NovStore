@@ -82,12 +82,12 @@ After/После
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 <p align="left">
-  telegram: @qkkkkkkkkkk
+  telegram: @qkkkkkkkkkkkkk
 </p>
 
 ## Contact Me
 <p align="left">
-  telegram: @qkkkkkkkkkk
+  telegram: @qkkkkkkkkkkkkk
 </p>
 
 ##
