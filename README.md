@@ -1,7 +1,10 @@
 # NovStore
 My first online store
 
-# 📫 How to reach me Telegram: @rayqvaza
+# 📫 How to reach me
+<p align="left">
+  📫 <strong> How to reach me <strong> Telegram: @rayqvaza
+</p>
 
 # About The Project
 Django project, forked and edited (http://djangogreatkart.com/). Added favourite tab & functionality, changed name. 
@@ -80,12 +83,12 @@ After/После
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 <p align="left">
-  📫 **How to reach me** Telegram: @rayqvaza
+  📫 <strong> How to reach me <strong> Telegram: @rayqvaza
 </p>
 
 ## Contact Me
 <p align="left">
-  📫 **How to reach me** Telegram: @rayqvaza
+  📫 <strong> How to reach me <strong> Telegram: @rayqvaza
 </p>
 
 ##
