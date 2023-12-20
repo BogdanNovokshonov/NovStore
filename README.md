@@ -2,7 +2,7 @@
 My first online store
 
 <p align="left">
-  telegram: @qkkkkkkkkkk
+  📫 **How to reach me** Telegram: @rayqvaza
 </p>
 
 # About The Project
@@ -82,12 +82,12 @@ After/После
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 <p align="left">
-  telegram: @qkkkkkkkkkkkkk
+  📫 **How to reach me** Telegram: @rayqvaza
 </p>
 
 ## Contact Me
 <p align="left">
-  telegram: @qkkkkkkkkkkkkk
+  📫 **How to reach me** Telegram: @rayqvaza
 </p>
 
 ##
