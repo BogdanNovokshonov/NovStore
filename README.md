@@ -3,7 +3,7 @@ My first online store
 
 # 📫 How to reach me
 <p align="left">
-  📫 <strong> Telegram: @rayqvaza <strong> 
+   <strong> Telegram: @rayqvaza <strong> 
 </p>
 
 # About The Project
@@ -83,12 +83,12 @@ After/После
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 <p align="left">
-  📫 <strong> Telegram: @rayqvaza <strong> 
+   <strong> Telegram: @rayqvaza <strong> 
 </p>
 
 ## Contact Me
 <p align="left">
-  📫 <strong> Telegram: @rayqvaza <strong> 
+   <strong> Telegram: @rayqvaza <strong> 
 </p>
 
 ##
